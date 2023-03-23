@@ -1,5 +1,6 @@
 ### Main Projects
 #### 1. React
+* My Project Weather Forecast - [GitHub](https://github.com/IvanYCSung/myproject-react-weatherforecast) / [Website](https://myproject-react-weatherforecast.netlify.app/)
 * Food Order App - [GitHub](https://github.com/IvanYCSung/learning-react-foododerapp) / [Website](https://learning-react-foododerapp.netlify.app)
 * Advanced Redux - [GitHub](https://github.com/IvanYCSung/learning-react-advancedredux) / [Website](https://learning-react-advancedredux.netlify.app/)
 * Route 6.4 - [GitHub](https://github.com/IvanYCSung/learning-react-router64) / [Website](https://learning-react-router64.netlify.app)
@@ -35,7 +36,3 @@
 #### 3. HTML & CSS
 * The Code Magazine - [GitHub](https://github.com/IvanYCSung/learning-htmlandcss-thecodemagazine) / [Website](https://learning-htmlandcss-thecodemagazine.netlify.app/)
 * HTML & CSS Components - [GitHub](https://github.com/IvanYCSung/learning-htmlandcss-components) / [Website](https://learning-htmlandcss-components.netlify.app/)
-
-
-
-* - [GitHub]() / [Website]()
