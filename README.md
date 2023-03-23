@@ -15,7 +15,7 @@
 * Lisbon Chair Shop - [GitHub](https://github.com/IvanYCSung/learning-htmlandcss-lisbonchairshop) / [Website](https://learning-htmlandcss-lisbonchairshop.netlify.app/)
 * OmniFood - [GitHub](https://github.com/IvanYCSung/learning-htmlandcss-omifood) / [Website](https://learning-htmlandcss-omifood.netlify.app/)
 
-
+___________________________________________________________________________________________________________________________________________________________
 
 ### Minor Projects
 #### 1. React
