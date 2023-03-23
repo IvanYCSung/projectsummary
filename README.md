@@ -22,11 +22,11 @@
 * Expense Tracker - [GitHub](https://github.com/IvanYCSung/learning-react-expensetracker) / [Website](https://learning-react-expensetracker.netlify.app)
 * Task List - [GitHub](https://github.com/IvanYCSung/learning-react-tasklist) / [Website](https://learning-react-tasklist.netlify.app)
 * User List - [GitHub](https://github.com/IvanYCSung/learning-react-userlist) / [Website](https://learning-react-userlist.netlify.app/)
-* Input State Changes CSS - [GitHub](https://github.com/IvanYCSung/learning-react-inputstatechangescss) / [Website](https://learning-react-inputstatechangescss.netlify.app) (Login Detail E-mail: random email with @ - Password: a minimum 7 digit numbers or letters)
+* Input State Changes CSS - [GitHub](https://github.com/IvanYCSung/learning-react-inputstatechangescss) / [Website](https://learning-react-inputstatechangescss.netlify.app) (Login Detail E-mail: a random email with @ - Password: a random minimum 7 digit numbers or letters)
 * Send and Fetch HTTP Requests - [GitHub](https://github.com/IvanYCSung/learning-react-sendnfetchhttprequests) / [Website](https://learning-react-sendnfetchhttprequests.netlify.app/)
 * useReducer and Multi-states - [GitHub](https://github.com/IvanYCSung/learning-react-usereducernmultistates) / [Website](https://learning-react-usereducernmultistates.netlify.app/)
-* Redux - [GitHub](https://github.com/IvanYCSung/learning-react-redux) / [Website](https://learning-react-redux.netlify.app)
-* Route Old Version - [GitHub](https://github.com/IvanYCSung/learning-react-routeroldversion) / [Website](https://learning-react-routeroldversion.netlify.app) (Login Detail E-mail: random email with @ - Password: random a minimum 1 digit number or letter )
+* Redux - [GitHub](https://github.com/IvanYCSung/learning-react-redux) / [Website](https://learning-react-redux.netlify.app) (Login Detail E-mail: a random email with @ - Password: a random minimum 1 digit number or letter )
+* Route Old Version - [GitHub](https://github.com/IvanYCSung/learning-react-routeroldversion) / [Website](https://learning-react-routeroldversion.netlify.app)
 
 #### 2. JavaScript
 * Guess My Number - [GitHub](https://github.com/IvanYCSung/learning-javascript-guessmynumber) / [Website](https://learning-javascript-guessmynumber.netlify.app/)
