@@ -27,6 +27,7 @@ ________________________________________________________________________________
 * useReducer and Multi-states - [GitHub](https://github.com/IvanYCSung/learning-react-usereducernmultistates) / [Website](https://learning-react-usereducernmultistates.netlify.app/)
 * Redux - [GitHub](https://github.com/IvanYCSung/learning-react-redux) / [Website](https://learning-react-redux.netlify.app) (Login Detail E-mail: a random email with @ - Password: a random minimum 1 digit number or letter )
 * Route Old Version - [GitHub](https://github.com/IvanYCSung/learning-react-routeroldversion) / [Website](https://learning-react-routeroldversion.netlify.app)
+* Authentication - [GitHub](https://github.com/IvanYCSung/learning-react-authentication/blob/master/README.md) / [website](https://learning-react-authentication.netlify.app)
 
 #### 2. JavaScript
 * Guess My Number - [GitHub](https://github.com/IvanYCSung/learning-javascript-guessmynumber) / [Website](https://learning-javascript-guessmynumber.netlify.app/)
